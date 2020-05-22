@@ -6,6 +6,7 @@
 // @match          https://*/*
 // @version        2.1
 // @author         pnppl
+// @license        MIT
 // ==/UserScript==
 
 const COLOR_BLUE = '#00278E'; // dark theme: #77B6FF
