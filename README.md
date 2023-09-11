@@ -1,4 +1,4 @@
-### [eBay mobile easy item ID](https://github.com/pnppl/userscripts/raw/master/retro-hyperlinks.user.js): Puts the item ID under the title with buttons for copying it and the cleaned URL
+### [eBay mobile easy item ID](https://github.com/pnppl/userscripts/raw/master/ebayitm.user.js): Puts the item ID under the title with buttons for copying it and the cleaned URL
 
 
 ### [Retro hyperlinks](https://github.com/pnppl/userscripts/raw/master/retro-hyperlinks.user.js): improve website navigability
