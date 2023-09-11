@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      pnppl
 // @description Puts the item ID under the title with buttons for copying it and the cleaned URL
-// @license     GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
+// @license     MIT
 // ==/UserScript==
 
 const url = window.location.href;
