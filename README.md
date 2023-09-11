@@ -1,4 +1,4 @@
-### [eBay mobile easy item ID](https://github.com/pnppl/userscripts/raw/master/ebayitm.user.js):
+### [eBay easy item ID](https://github.com/pnppl/userscripts/raw/master/ebayitm.user.js):
 Puts the item ID under the title with buttons for copying it and the cleaned URL.
 
 ### [LibraryThing Copy Book (by brightcopy)](https://github.com/pnppl/userscripts/raw/master/LT-copy-book_brightcopy.user.js): 
