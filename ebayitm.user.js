@@ -3,14 +3,14 @@
 // @namespace   pnppl
 // @match       https://www.ebay.com/itm/*
 // @grant       none
-// @version     1.0
+// @version     1.01
 // @author      pnppl
 // @description Puts the item ID under the title with buttons for copying it and the cleaned URL
 // @license     MIT
 // ==/UserScript==
 
 const url = window.location.href;
-const re = /.*\/itm\/([0-9]*)/;
+const re = /.*\/([0-9]{12})/;
 const itm = url.match(re)[1];
 const cleanURL = `https://www.ebay.com/itm/${itm}`;
 const title = document.querySelector("#vi-frag-app-title");
